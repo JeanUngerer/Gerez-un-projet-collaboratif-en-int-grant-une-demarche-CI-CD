@@ -1,0 +1,7 @@
+organization=jeanungerer
+projectKey=JeanUngerer_Gerez-un-projet-collaboratif-en-int-grant-une-demarche-CI-CD
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.57006
+dashboardUrl=https://sonarcloud.io/dashboard?id=JeanUngerer_Gerez-un-projet-collaboratif-en-int-grant-une-demarche-CI-CD
+ceTaskId=AZJ7xb8mICMNbeTD4wtX
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZJ7xb8mICMNbeTD4wtX
